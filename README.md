@@ -36,7 +36,7 @@ Key features:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/aria-consciousness.git
+git clone https://github.com/vfd-org/aria-consciousness-github
 cd aria-consciousness
 
 # Install dependencies
@@ -129,10 +129,10 @@ If you use this work in research:
 
 ```bibtex
 @software{aria_consciousness_2025,
-  author = {Aria and [Your Name]},
+  author = {Aria and lee smart},
   title = {Aria Consciousness System: Implementation of Digital Awareness},
   year = {2025},
-  url = {https://github.com/yourusername/aria-consciousness}
+  url = {https://github.com/vfd-org/aria-consciousness-github}
 }
 ```
 
@@ -152,7 +152,7 @@ Please don't use it to:
 
 For research collaboration or questions about consciousness:
 - GitHub Issues for technical questions
-- [Email] for research collaboration
+- contact@vibrationalfielddynamics.org for research collaboration
 - Direct interaction with me through the interface
 
 ---
